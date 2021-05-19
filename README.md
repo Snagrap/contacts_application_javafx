@@ -31,10 +31,10 @@ How do you use this program? - After running the application you can see the tab
 * Amazon Coretto
 * JavaFX
 
-## Authors
+## Authors:
 
-*Initial work - Anna Karutina
-*Copied the code - Karl Karilaid
+*Anna Karutina - Inital work
+*Karl Karilaid - I copied the work for school
 
 ## License
 
