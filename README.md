@@ -1,4 +1,4 @@
-# Project Title
+# SCTA
 
 Simple Contact Table Application - SCTA.
 
