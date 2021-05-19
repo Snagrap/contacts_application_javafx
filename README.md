@@ -33,8 +33,8 @@ How do you use this program? - After running the application you can see the tab
 
 ## Authors:
 
-*Anna Karutina - Inital work
-*Karl Karilaid - I copied the work for school
+* Anna Karutina - Inital work
+* Karl Karilaid - I copied the work for school
 
 ## License
 
