@@ -1,62 +1,41 @@
 # Project Title
 
-Simple overview of use/purpose.
+Simple Contact Table Application - SCTA.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+SCTA is an really simple Contacts Table application, that let's you add, remove and edit contacts in your table.
 
 ## Getting Started
 
-### Dependencies
+### Prerequisites:
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* You need Java 11 or later and JavaFX 11.0.2 to use this application.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* You need to download the entire repistory.
+* Compile the code. You can use IDE or anything else that you want. Use Youtube to find out how to do it.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Run the program? Easy as that.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+How do you use this program? - After running the application you can see the table of contacts. You can press the "Contacts" tab and add new contacts or remove and edit already existing contacts.
+
+## Built with:
+
+* IntelliJ
+* Amazon Coretto
+* JavaFX
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+Initial work - Anna Karutina
+Copied the code - Karl Karilaid
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+This project is licensed under the [Karl Karilaid] License - see the LICENSE.md file for details
